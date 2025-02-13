@@ -17,5 +17,5 @@ switch (true) {
         console.log("Відмінно");
         break;
     default:
-        console.log("Недопустиме значення середної оцінки")
+        console.log("Недопустиме значення середньої оцінки")
 }
