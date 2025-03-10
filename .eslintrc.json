@@ -20,6 +20,9 @@
     "no-console": "warn",
     "semi": ["error", "never"],
     "quotes": ["error", "single"],
-    "no-extra-semi": "error"
+    "no-extra-semi": "error",
+    "no-var": "error",
+    "eqeqeq": ["error", "always"]
+    
   }
 }

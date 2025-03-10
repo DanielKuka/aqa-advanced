@@ -1,12 +1,4 @@
-function greet(name) {
-    if (name == 'Danylo') {
-      console.log('Hello, Danylo!');
-    } else {
-      console.log('Hello, stranger!');
-    }
-  
-    var greeting = 'Good morning';
-    console.log(greeting);
-  }
-  
-  greet('Alice');
+console.log('This is an error')
+let num = 5;
+
+console.log(num)
