@@ -16,6 +16,10 @@
         "singleQuote": true,
         "semi": false
       }
-    ]
+    ],
+    "no-console": "warn",
+    "semi": ["error", "never"],
+    "quotes": ["error", "single"],
+    "no-extra-semi": "error"
   }
 }
